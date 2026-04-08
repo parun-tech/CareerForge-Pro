@@ -18,7 +18,7 @@ const userSchema = new mongoose.Schema({
   plan: {
     type: String,
     enum: ['free', 'pro'],
-    default: 'pro'
+    default: 'free'
   },
   resumesCreated: {
     type: Number,
