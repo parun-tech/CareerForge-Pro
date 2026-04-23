@@ -1,0 +1,2 @@
+﻿6e102e2 Week 2: Developed AI Writer prompt templates and ATS Keyword matching scoring logic
+d870224 Week 1: Implemented definitive Resume Schema, Live Preview UI split-screen, and Context state management

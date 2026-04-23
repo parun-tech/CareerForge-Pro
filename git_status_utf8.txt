@@ -1,0 +1,28 @@
+﻿On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+	modified:   server/models/User.js
+	modified:   server/services/aiService.js
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	client/src/pages/Dashboard.jsx
+	client/src/pages/Payment.jsx
+	git_log.txt
+	git_remote.txt
+	git_status.txt
+	git_status_utf8.txt
+	server/controllers/pdfController.js
+	server/controllers/stripeController.js
+	server/groq_test_output.txt
+	server/reg_log.txt
+	server/routes/pdfRoutes.js
+	server/routes/stripeRoutes.js
+	server/services/pdfService.js
+	server/test_groq.js
+	server/test_reg.js
+
+no changes added to commit (use "git add" and/or "git commit -a")

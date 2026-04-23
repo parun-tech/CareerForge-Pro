@@ -1,0 +1,2 @@
+﻿origin	https://github.com/parun-tech/CareerForge-Pro.git (fetch)
+origin	https://github.com/parun-tech/CareerForge-Pro.git (push)

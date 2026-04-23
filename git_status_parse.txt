@@ -1,0 +1,16 @@
+ M server/models/User.js
+?? client/src/pages/Dashboard.jsx
+?? client/src/pages/Payment.jsx
+?? git_branch_status.txt
+?? git_log.txt
+?? git_log_utf8.txt
+?? git_remote.txt
+?? git_remote_utf8.txt
+?? git_status.txt
+?? git_status_utf8.txt
+?? server/controllers/stripeController.js
+?? server/groq_test_output.txt
+?? server/reg_log.txt
+?? server/routes/stripeRoutes.js
+?? server/test_groq.js
+?? server/test_reg.js
